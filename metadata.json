@@ -1,0 +1,22 @@
+{
+  "best_model": "XGBoost",
+  "training_date": "2025-11-01T18:24:45.559716",
+  "dataset": "UNSW-NB15",
+  "train_samples": 82332,
+  "test_samples": 175341,
+  "features": 42,
+  "categorical_columns": [
+    "proto",
+    "service",
+    "state"
+  ],
+  "target_column": "label",
+  "metrics": {
+    "test_accuracy": 0.9007762018010619,
+    "test_precision": 0.9874903164720397,
+    "test_recall": 0.8651762596257783,
+    "test_f1": 0.9222956677087986,
+    "test_roc_auc": 0.9855405283718803,
+    "training_time": 4.802857225639665
+  }
+}
