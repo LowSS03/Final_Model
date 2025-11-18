@@ -1,0 +1,5 @@
+Model,Train Time (s),Val Accuracy,Test Accuracy,Test Precision,Test Recall,Test F1-Score
+Random Forest,8.74,1.0000,1.0000,1.0000,1.0000,1.0000
+XGBoost,1.60,1.0000,1.0000,1.0000,1.0000,1.0000
+Gradient Boosting,350.36,0.9999,0.9999,1.0000,0.9999,0.9999
+Extra Trees,5.63,1.0000,1.0000,1.0000,1.0000,1.0000
